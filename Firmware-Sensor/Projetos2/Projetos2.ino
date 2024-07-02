@@ -89,6 +89,7 @@ void init_serial()
  * Parâmetros: nenhum
  * Retorno: nenhum
  */
+//
 void init_wifi(void) 
 {
     delay(10);
